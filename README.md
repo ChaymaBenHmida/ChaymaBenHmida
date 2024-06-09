@@ -36,11 +36,7 @@ I am passionate about data science, data engineering, and leveraging technology 
 </p>
 
 ### GitHub Statistics
-![Chaima's ](https://github-readme-stats.vercel.app/api?username=ChaymaBenHmida&show_icons=true&theme=radical)
 ![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaymaBenHmida&show_icons=true&theme=dracula)
-![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaymaBenHmida&show_icons=true&theme=default)
-
-
 
 
 <!--
