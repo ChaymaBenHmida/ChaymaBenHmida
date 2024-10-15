@@ -14,8 +14,6 @@ I am passionate about data science, data engineering, and leveraging technology 
 - 🔭 I’m currently exploring the fascinating world of data integration and analytics.
 - 💬 Ask me about anything related to data engineering, BI tools, and ERP systems.
 - 📫 Reach me at : chaimabenhmida01@gmail.com Or chaima.benhmida@esprit.tn
-- ⚡ Fun fact: 
-
 
 ### Skills
 - **💻 Programming Languages**: Python, R, PHP, JavaScript, Java, C, C++, C#, HTML, CSS, Shell
