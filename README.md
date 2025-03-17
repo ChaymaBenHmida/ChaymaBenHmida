@@ -33,9 +33,10 @@ I am passionate about data science, data engineering, and leveraging technology 
     <a href="https://github.com/ChaymaBenHmida"><img src="https://img.shields.io/github/followers/ChaymaBenHmida?label=Followers&style=social" alt="GitHub Followers" /></a>
 </p>
 
+<!-- comment
 ### GitHub Statistics
 ![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaymaBenHmida&show_icons=true&theme=dracula)
-
+-->
 
 <!--
 **ChaymaBenHmida/ChaymaBenHmida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
