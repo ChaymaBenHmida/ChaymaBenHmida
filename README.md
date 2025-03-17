@@ -19,9 +19,9 @@ I am passionate about data science, data engineering, and leveraging technology 
 - **💻 Programming Languages**: Python, R, PHP, JavaScript, Java, C, C++, C#, HTML, CSS, Shell
 - **🛠️ Frameworks**: .NET, Spring Boot, Flask, Angular, Symfony 5.4, JavaFX, Flutter, CodeName One, Qt Creator, SDL, Arduino, MPLAB
 - **🗄️ Databases Management**: MongoDB, PLSql, MySQL, SQL Server, Oracle, PostgreSQL
-- **📊 Data Science**: Machine Learning, Big Data technologies, Time series analysis, Statistics, Storytelling
-- **⚙️ Data Engineering**: Talend, SSDT (SQL Server Data Tools), SSMS (SQL Server Management Studio), SSIS (SQL Server Integration Services)
-- **📈 Data Visualization**: Matplotlib, Seaborn, PowerBI
+- **📊 Data Science**: Machine Learning, Big Data technologies, Time series analysis, Statistics, Storytelling, Deep Learning
+- **⚙️ Data Engineering**: Talend, SSDT (SQL Server Data Tools), SSMS (SQL Server Management Studio), SSIS (SQL Server Integration Services),Azure Data Factory
+- **📈 Data Visualization**: PowerBI
 
 
 ### Hobbies
