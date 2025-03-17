@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Chaima Ben Hmida
 <p align="center">
     <a href="https://www.linkedin.com/in/chaima-ben-hmida-0b7b41241/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+   <!-- comment
     <a href="https://www.facebook.com/chaymouma.benhamida/"><img src="https://img.shields.io/badge/facebook-%233b5998?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/chayma_ben_hmida/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/chayma_ben_hmida/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a> 
+    end of comment -->
   </p>
   
   <img src="https://github.com/ChaymaBenHmida/ChaymaBenHmida/blob/main/Designer.jpeg" align="right" width="25%"/>
