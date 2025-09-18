@@ -9,7 +9,7 @@
   
   <img src="https://github.com/ChaymaBenHmida/ChaymaBenHmida/blob/main/Designer.jpeg" align="right" width="25%"/>
   
-**I'm a computer science engineering student specializing in Business Intelligence.** 
+**I'm a computer science engineer specializing in Business Intelligence.** 
 
 I am passionate about data science, data engineering, and leveraging technology to solve real-world problems.
 
